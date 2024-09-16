@@ -1,4 +1,6 @@
 ## *Hi there 👋*
+
+I'm Hamza, a software engineering student from London, UK. I'm vaguely proficient in Python but currently learning C++!
 <!--
 **Hamza1843/Hamza1843** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
