@@ -1,3 +1,3 @@
 ## *Hi there 👋*
 
-I'm Hamza, a software engineer from London, UK.
+I'm Hamza, a C++ software engineer from London.
